@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+@import "tailwindcss";
+
+body{
+  font-family: "Michroma", sans-serif !important;
+}
+
+
+.ant-menu-item-selected{
+  background-color: rgba(139, 43, 2, 0.805) !important;
+  
+}
